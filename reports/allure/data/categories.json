@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '本站新帖 - phpwi...ed by phpwind' == '新帖 - phpwind...ed by phpwind'\n  \n  - 新帖 - phpwind 9.0 - Powered by phpwind\n  + 本站新帖 - phpwind 9.0 - Powered by phpwind\n  ? ++",
+      "children" : [ {
+        "name" : "test_logout",
+        "uid" : "d5ca69ced7d4482e",
+        "parentUid" : "9ad346b152b0c1803427b0e67d046c9f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1740710314159,
+          "stop" : 1740710321102,
+          "duration" : 6943
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9ad346b152b0c1803427b0e67d046c9f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

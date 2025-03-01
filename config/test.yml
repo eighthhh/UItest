@@ -1,0 +1,11 @@
+login:
+  path: /phpwind/index.php?m=u&c=login
+  method: POST
+
+index:
+  path: /phpwind
+  method: GET
+
+register:
+    path: /phpwind/index.php?m=u&c=register&a=dorun
+    method: GET
