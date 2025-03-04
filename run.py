@@ -5,9 +5,9 @@ import pytest
 
 if __name__ == "__main__":
     #先单独执行这一行。设置一下allure生成json格式的临时报告路径./temp就是放到当前路径的temp文件夹下。
-    #pytest.main(['-vs', '--alluredir=./reports/temp', '--clean-alluredir'])
+    pytest.main(['-vs', '--alluredir=./reports/temp', '--clean-alluredir'])
 
-    pytest.main()
+    #pytest.main()
     #allure generate 命令，固定的
     os.system('allure generate ./reports/temp -o ./reports/allure --clean')
 
