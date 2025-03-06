@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d5ca69ced7d4482e",
+      "uid" : "c1fea8e49c1c547",
       "status" : "failed",
       "statusDetails" : "AssertionError: assert '本站新帖 - phpwi...ed by phpwind' == '新帖 - phpwind...ed by phpwind'\n  \n  - 新帖 - phpwind 9.0 - Powered by phpwind\n  + 本站新帖 - phpwind 9.0 - Powered by phpwind\n  ? ++",
       "time" : {
-        "start" : 1740710314159,
-        "stop" : 1740710321102,
-        "duration" : 6943
+        "start" : 1741228806997,
+        "stop" : 1741228817647,
+        "duration" : 10650
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "584a8c40dd0f2c0b",
+      "uid" : "8b0039d557e7e615",
       "status" : "passed",
       "time" : {
-        "start" : 1740710309039,
-        "stop" : 1740710314157,
-        "duration" : 5118
+        "start" : 1741228796919,
+        "stop" : 1741228806995,
+        "duration" : 10076
       }
     } ]
   }

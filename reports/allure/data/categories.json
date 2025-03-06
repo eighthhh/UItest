@@ -7,13 +7,13 @@
       "name" : "AssertionError: assert '本站新帖 - phpwi...ed by phpwind' == '新帖 - phpwind...ed by phpwind'\n  \n  - 新帖 - phpwind 9.0 - Powered by phpwind\n  + 本站新帖 - phpwind 9.0 - Powered by phpwind\n  ? ++",
       "children" : [ {
         "name" : "test_logout",
-        "uid" : "d5ca69ced7d4482e",
+        "uid" : "c1fea8e49c1c547",
         "parentUid" : "9ad346b152b0c1803427b0e67d046c9f",
         "status" : "failed",
         "time" : {
-          "start" : 1740710314159,
-          "stop" : 1740710321102,
-          "duration" : 6943
+          "start" : 1741228806997,
+          "stop" : 1741228817647,
+          "duration" : 10650
         },
         "flaky" : false,
         "newFailed" : false,
